@@ -314,3 +314,11 @@ The response that you will get in you browser
 ## Remember
 
 First thing you have to remember is that you the port address that you use for MySQL should be different than the port that you use for server. The default server port is 8080. In  my case i use 8000 for MySQL and for server is 8080
+
+### Github Repo
+
+[Link](https://github.com/ayoubzulfiqar/frogging_with_mysql)
+
+### Dev.to
+
+[Article](https://dev.to/ayoubzulfiqar/how-to-create-a-minimal-backend-api-service-using-dart-frog-with-mysql-database-5hig)
